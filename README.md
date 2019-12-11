@@ -1,2 +1,2 @@
-# AWS-IP-Ranges
+# AWSIPList
 All IP Ranges of AWS Servers
